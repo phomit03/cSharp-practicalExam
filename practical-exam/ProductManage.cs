@@ -15,7 +15,7 @@ namespace practical_exam
             ListProduct = new List<Product>();
         }
 
-        //hàm trả về số lượng sinh viên hiện tại trong list
+        //hàm trả về số lượng sản phẩm hiện tại trong list
         public int ProductNumber()
         {
             int Count = 0;
