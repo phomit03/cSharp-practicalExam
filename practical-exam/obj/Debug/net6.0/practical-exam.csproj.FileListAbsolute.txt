@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\bin\Debug\net6.0\practical-exam.exe
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\bin\Debug\net6.0\practical-exam.deps.json
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\bin\Debug\net6.0\practical-exam.runtimeconfig.json
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\bin\Debug\net6.0\practical-exam.dll
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\bin\Debug\net6.0\practical-exam.pdb
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.dll
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\refint\practical-exam.dll
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.pdb
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\practical-exam.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Project\FPTAptech-SEM2\c-sharp\practical-exam\practical-exam\obj\Debug\net6.0\ref\practical-exam.dll
