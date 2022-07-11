@@ -74,12 +74,12 @@ namespace practical_exam
         {
             bool IsDeleted = false;
 
-            // Tìm kiếm sinh viên trong danh sách ListSinhVien
-            Product sv = FindByID(ID);
-            // Nếu sinh viên tồn tại thì cập nhập thông tin sinh viên
-            if (sv != null)
+            // Tìm kiếm sản phẩm trong danh sách 
+            Product p = FindByID(ID);
+            // Nếu có sản phẩm thì delete ngược lại báo tồn tại
+            if (p != null)
             {
-                IsDeleted = ListProduct.Remove(sv);
+                IsDeleted = ListProduct.Remove(p);
             }
             else
             {
